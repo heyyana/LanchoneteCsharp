@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\projetolanchonete\\Lanchonete\\Lanchonete.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Source\\Repos\\LanchoneteCsharp\\Lanchonete\\Lanchonete.csproj",
       "projectName": "Lanchonete",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\projetolanchonete\\Lanchonete\\Lanchonete.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Source\\Repos\\LanchoneteCsharp\\Lanchonete\\Lanchonete.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\projetolanchonete\\Lanchonete\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Source\\Repos\\LanchoneteCsharp\\Lanchonete\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
